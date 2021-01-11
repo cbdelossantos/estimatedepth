@@ -18,8 +18,8 @@ Distance of sensor from bottom: 12.5 cm
 Sampling frequency: 10	min      
 
 # DESCRIPTION     
-The model used train data (field dataset 1) to obtain a relationship between observed water depth and tidal height. The model is validated agains an independent dataset (field dataset 2).      
+The model used training data (field dataset 1) to obtain a deterministic relationship between observed water depth and tide heights from official charts of the Portuguese Hydrographic Institute. The model is validated agains an independent dataset (field dataset 2).      
 
 Different regression approaches were used and compared with RMSE and R2. The linear regression outperformed the other approaches.    
 
-The model is then applied for the time interval of interests, from june 2017 to june 2019, and mean, maximum, and minimum water depths are then estimated for each month.    
+The model is then applied for the time interval of interests, from june 2017 to june 2019, and mean, maximum, and minimum water depths are then estimated for each month.      
