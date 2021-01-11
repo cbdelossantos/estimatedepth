@@ -17,7 +17,7 @@ Transducer model: Rugged TROLL 100
 Distance of sensor from bottom: 12.5 cm     
 Sampling frequency: 10	min      
 
-# DESCIPTION     
+# DESCRIPTION     
 The model used train data (field dataset 1) to obtain a relationship between observed water depth and tidal height. The model is validated agains an independent dataset (field dataset 2).      
 
 Different regression approaches were used and compared with RMSE and R2. The linear regression outperformed the other approaches.    
