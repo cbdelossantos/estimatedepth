@@ -4,15 +4,15 @@ Note: the model is not extremaly accurate and needs to be improved with more tra
 
 # FIELD DATA DESRIPTION
 ## dataset 1 (validation data)
-start time: 2017-07-25 12:00:00     
-final time: 2017-07-25 19:00:00     
+start time: 2017-07-25 12:00:00 (tz= Europe/Lisbon)         
+final time: 2017-07-25 19:00:00 (tz= Europe/Lisbon)       
 Transducer model: Rugged TROLL 100      
 Distance of sensor from bottom: 18 cm      
 Sampling frequency: 5	min      
 
 ## dataset 2 (training data)
-start time: 2017-09-07 15:00:00      
-final time: 2017-09-11 11:00:00      
+start time: 2017-09-07 15:00:00 (tz= Europe/Lisbon)          
+final time: 2017-09-11 11:00:00 (tz= Europe/Lisbon)          
 Transducer model: Rugged TROLL 100     
 Distance of sensor from bottom: 12.5 cm     
 Sampling frequency: 10	min      
