@@ -1,3 +1,6 @@
+# NOTE: DESCIPTION OF THE FILES NOT FINISHED!    
+
+
 # GOAL     
 A model to estimate the water depth for a sampling site in a Caulerpa meadow of the Ria Formosa lagoon (South Portugal). 
 Note: the model is not extremaly accurate and needs to be improved with more training data (over more tidal cycles).   
